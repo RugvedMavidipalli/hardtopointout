@@ -1,0 +1,1058 @@
+[
+  {
+    "imageNo": 0,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      0.35,
+      -0.15
+    ],
+    "yaw": -30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 1,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      0.27999999999999997,
+      -0.15
+    ],
+    "yaw": -25.016893478100023,
+    "pitch": 30
+  },
+  {
+    "imageNo": 2,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      0.21,
+      -0.15
+    ],
+    "yaw": -19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 3,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      0.14,
+      -0.15
+    ],
+    "yaw": -13.134022306396325,
+    "pitch": 30
+  },
+  {
+    "imageNo": 4,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      0.07,
+      -0.15
+    ],
+    "yaw": -6.654425046006597,
+    "pitch": 30
+  },
+  {
+    "imageNo": 5,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      0.0,
+      -0.15
+    ],
+    "yaw": -0.0,
+    "pitch": 30
+  },
+  {
+    "imageNo": 6,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      -0.06999999999999995,
+      -0.15
+    ],
+    "yaw": 6.65442504600659,
+    "pitch": 30
+  },
+  {
+    "imageNo": 7,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      -0.13999999999999996,
+      -0.15
+    ],
+    "yaw": 13.13402230639632,
+    "pitch": 30
+  },
+  {
+    "imageNo": 8,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      -0.20999999999999996,
+      -0.15
+    ],
+    "yaw": 19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 9,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      -0.2799999999999999,
+      -0.15
+    ],
+    "yaw": 25.016893478100016,
+    "pitch": 30
+  },
+  {
+    "imageNo": 10,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      0.85,
+      -0.35,
+      -0.15
+    ],
+    "yaw": 30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 11,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      0.35,
+      -0.15
+    ],
+    "yaw": -30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 12,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      0.27999999999999997,
+      -0.15
+    ],
+    "yaw": -25.016893478100023,
+    "pitch": 30
+  },
+  {
+    "imageNo": 13,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      0.21,
+      -0.15
+    ],
+    "yaw": -19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 14,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      0.14,
+      -0.15
+    ],
+    "yaw": -13.134022306396325,
+    "pitch": 30
+  },
+  {
+    "imageNo": 15,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      0.07,
+      -0.15
+    ],
+    "yaw": -6.654425046006597,
+    "pitch": 30
+  },
+  {
+    "imageNo": 16,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      0.0,
+      -0.15
+    ],
+    "yaw": -0.0,
+    "pitch": 30
+  },
+  {
+    "imageNo": 17,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      -0.06999999999999995,
+      -0.15
+    ],
+    "yaw": 6.65442504600659,
+    "pitch": 30
+  },
+  {
+    "imageNo": 18,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      -0.13999999999999996,
+      -0.15
+    ],
+    "yaw": 13.13402230639632,
+    "pitch": 30
+  },
+  {
+    "imageNo": 19,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      -0.20999999999999996,
+      -0.15
+    ],
+    "yaw": 19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 20,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      -0.2799999999999999,
+      -0.15
+    ],
+    "yaw": 25.016893478100016,
+    "pitch": 30
+  },
+  {
+    "imageNo": 21,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      0.85,
+      -0.35,
+      -0.15
+    ],
+    "yaw": 30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 22,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      0.35,
+      -0.15
+    ],
+    "yaw": -30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 23,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      0.27999999999999997,
+      -0.15
+    ],
+    "yaw": -25.016893478100023,
+    "pitch": 30
+  },
+  {
+    "imageNo": 24,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      0.21,
+      -0.15
+    ],
+    "yaw": -19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 25,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      0.14,
+      -0.15
+    ],
+    "yaw": -13.134022306396325,
+    "pitch": 30
+  },
+  {
+    "imageNo": 26,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      0.07,
+      -0.15
+    ],
+    "yaw": -6.654425046006597,
+    "pitch": 30
+  },
+  {
+    "imageNo": 27,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      0.0,
+      -0.15
+    ],
+    "yaw": -0.0,
+    "pitch": 30
+  },
+  {
+    "imageNo": 28,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      -0.06999999999999995,
+      -0.15
+    ],
+    "yaw": 6.65442504600659,
+    "pitch": 30
+  },
+  {
+    "imageNo": 29,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      -0.13999999999999996,
+      -0.15
+    ],
+    "yaw": 13.13402230639632,
+    "pitch": 30
+  },
+  {
+    "imageNo": 30,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      -0.20999999999999996,
+      -0.15
+    ],
+    "yaw": 19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 31,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      -0.2799999999999999,
+      -0.15
+    ],
+    "yaw": 25.016893478100016,
+    "pitch": 30
+  },
+  {
+    "imageNo": 32,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      0.85,
+      -0.35,
+      -0.15
+    ],
+    "yaw": 30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 33,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      0.35,
+      -0.15
+    ],
+    "yaw": -30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 34,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      0.27999999999999997,
+      -0.15
+    ],
+    "yaw": -25.016893478100023,
+    "pitch": 30
+  },
+  {
+    "imageNo": 35,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      0.21,
+      -0.15
+    ],
+    "yaw": -19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 36,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      0.14,
+      -0.15
+    ],
+    "yaw": -13.134022306396325,
+    "pitch": 30
+  },
+  {
+    "imageNo": 37,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      0.07,
+      -0.15
+    ],
+    "yaw": -6.654425046006597,
+    "pitch": 30
+  },
+  {
+    "imageNo": 38,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      0.0,
+      -0.15
+    ],
+    "yaw": -0.0,
+    "pitch": 30
+  },
+  {
+    "imageNo": 39,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      -0.06999999999999995,
+      -0.15
+    ],
+    "yaw": 6.65442504600659,
+    "pitch": 30
+  },
+  {
+    "imageNo": 40,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      -0.13999999999999996,
+      -0.15
+    ],
+    "yaw": 13.13402230639632,
+    "pitch": 30
+  },
+  {
+    "imageNo": 41,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      -0.20999999999999996,
+      -0.15
+    ],
+    "yaw": 19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 42,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      -0.2799999999999999,
+      -0.15
+    ],
+    "yaw": 25.016893478100016,
+    "pitch": 30
+  },
+  {
+    "imageNo": 43,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      0.85,
+      -0.35,
+      -0.15
+    ],
+    "yaw": 30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 44,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      0.35,
+      -0.15
+    ],
+    "yaw": -30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 45,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      0.27999999999999997,
+      -0.15
+    ],
+    "yaw": -25.016893478100023,
+    "pitch": 30
+  },
+  {
+    "imageNo": 46,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      0.21,
+      -0.15
+    ],
+    "yaw": -19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 47,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      0.14,
+      -0.15
+    ],
+    "yaw": -13.134022306396325,
+    "pitch": 30
+  },
+  {
+    "imageNo": 48,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      0.07,
+      -0.15
+    ],
+    "yaw": -6.654425046006597,
+    "pitch": 30
+  },
+  {
+    "imageNo": 49,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      0.0,
+      -0.15
+    ],
+    "yaw": -0.0,
+    "pitch": 30
+  },
+  {
+    "imageNo": 50,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      -0.06999999999999995,
+      -0.15
+    ],
+    "yaw": 6.65442504600659,
+    "pitch": 30
+  },
+  {
+    "imageNo": 51,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      -0.13999999999999996,
+      -0.15
+    ],
+    "yaw": 13.13402230639632,
+    "pitch": 30
+  },
+  {
+    "imageNo": 52,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      -0.20999999999999996,
+      -0.15
+    ],
+    "yaw": 19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 53,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      -0.2799999999999999,
+      -0.15
+    ],
+    "yaw": 25.016893478100016,
+    "pitch": 30
+  },
+  {
+    "imageNo": 54,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      0.85,
+      -0.35,
+      -0.15
+    ],
+    "yaw": 30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 55,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      0.35,
+      -0.15
+    ],
+    "yaw": -30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 56,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      0.27999999999999997,
+      -0.15
+    ],
+    "yaw": -25.016893478100023,
+    "pitch": 30
+  },
+  {
+    "imageNo": 57,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      0.21,
+      -0.15
+    ],
+    "yaw": -19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 58,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      0.14,
+      -0.15
+    ],
+    "yaw": -13.134022306396325,
+    "pitch": 30
+  },
+  {
+    "imageNo": 59,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      0.07,
+      -0.15
+    ],
+    "yaw": -6.654425046006597,
+    "pitch": 30
+  },
+  {
+    "imageNo": 60,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      0.0,
+      -0.15
+    ],
+    "yaw": -0.0,
+    "pitch": 30
+  },
+  {
+    "imageNo": 61,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      -0.06999999999999995,
+      -0.15
+    ],
+    "yaw": 6.65442504600659,
+    "pitch": 30
+  },
+  {
+    "imageNo": 62,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      -0.13999999999999996,
+      -0.15
+    ],
+    "yaw": 13.13402230639632,
+    "pitch": 30
+  },
+  {
+    "imageNo": 63,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      -0.20999999999999996,
+      -0.15
+    ],
+    "yaw": 19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 64,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      -0.2799999999999999,
+      -0.15
+    ],
+    "yaw": 25.016893478100016,
+    "pitch": 30
+  },
+  {
+    "imageNo": 65,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      0.85,
+      -0.35,
+      -0.15
+    ],
+    "yaw": 30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 66,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      0.35,
+      -0.15
+    ],
+    "yaw": -30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 67,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      0.27999999999999997,
+      -0.15
+    ],
+    "yaw": -25.016893478100023,
+    "pitch": 30
+  },
+  {
+    "imageNo": 68,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      0.21,
+      -0.15
+    ],
+    "yaw": -19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 69,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      0.14,
+      -0.15
+    ],
+    "yaw": -13.134022306396325,
+    "pitch": 30
+  },
+  {
+    "imageNo": 70,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      0.07,
+      -0.15
+    ],
+    "yaw": -6.654425046006597,
+    "pitch": 30
+  },
+  {
+    "imageNo": 71,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      0.0,
+      -0.15
+    ],
+    "yaw": -0.0,
+    "pitch": 30
+  },
+  {
+    "imageNo": 72,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      -0.06999999999999995,
+      -0.15
+    ],
+    "yaw": 6.65442504600659,
+    "pitch": 30
+  },
+  {
+    "imageNo": 73,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      -0.13999999999999996,
+      -0.15
+    ],
+    "yaw": 13.13402230639632,
+    "pitch": 30
+  },
+  {
+    "imageNo": 74,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      -0.20999999999999996,
+      -0.15
+    ],
+    "yaw": 19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 75,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      -0.2799999999999999,
+      -0.15
+    ],
+    "yaw": 25.016893478100016,
+    "pitch": 30
+  },
+  {
+    "imageNo": 76,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      0.85,
+      -0.35,
+      -0.15
+    ],
+    "yaw": 30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 77,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      0.35,
+      -0.15
+    ],
+    "yaw": -30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 78,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      0.27999999999999997,
+      -0.15
+    ],
+    "yaw": -25.016893478100023,
+    "pitch": 30
+  },
+  {
+    "imageNo": 79,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      0.21,
+      -0.15
+    ],
+    "yaw": -19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 80,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      0.14,
+      -0.15
+    ],
+    "yaw": -13.134022306396325,
+    "pitch": 30
+  },
+  {
+    "imageNo": 81,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      0.07,
+      -0.15
+    ],
+    "yaw": -6.654425046006597,
+    "pitch": 30
+  },
+  {
+    "imageNo": 82,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      0.0,
+      -0.15
+    ],
+    "yaw": -0.0,
+    "pitch": 30
+  },
+  {
+    "imageNo": 83,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      -0.06999999999999995,
+      -0.15
+    ],
+    "yaw": 6.65442504600659,
+    "pitch": 30
+  },
+  {
+    "imageNo": 84,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      -0.13999999999999996,
+      -0.15
+    ],
+    "yaw": 13.13402230639632,
+    "pitch": 30
+  },
+  {
+    "imageNo": 85,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      -0.20999999999999996,
+      -0.15
+    ],
+    "yaw": 19.29004621918873,
+    "pitch": 30
+  },
+  {
+    "imageNo": 86,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      -0.2799999999999999,
+      -0.15
+    ],
+    "yaw": 25.016893478100016,
+    "pitch": 30
+  },
+  {
+    "imageNo": 87,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      0.85,
+      -0.35,
+      -0.15
+    ],
+    "yaw": 30.256437163529263,
+    "pitch": 30
+  },
+  {
+    "imageNo": 88,
+    "robotLocation": "0",
+    "gripperXYZ": [
+      1,
+      0,
+      0.14
+    ],
+    "yaw": 0,
+    "pitch": 65
+  },
+  {
+    "imageNo": 89,
+    "robotLocation": "1",
+    "gripperXYZ": [
+      1,
+      0,
+      0.14
+    ],
+    "yaw": 0,
+    "pitch": 65
+  },
+  {
+    "imageNo": 90,
+    "robotLocation": "2",
+    "gripperXYZ": [
+      1,
+      0,
+      0.14
+    ],
+    "yaw": 0,
+    "pitch": 65
+  },
+  {
+    "imageNo": 91,
+    "robotLocation": "3",
+    "gripperXYZ": [
+      1,
+      0,
+      0.14
+    ],
+    "yaw": 0,
+    "pitch": 65
+  },
+  {
+    "imageNo": 92,
+    "robotLocation": "4",
+    "gripperXYZ": [
+      1,
+      0,
+      0.14
+    ],
+    "yaw": 0,
+    "pitch": 65
+  },
+  {
+    "imageNo": 93,
+    "robotLocation": "5",
+    "gripperXYZ": [
+      1,
+      0,
+      0.14
+    ],
+    "yaw": 0,
+    "pitch": 65
+  },
+  {
+    "imageNo": 94,
+    "robotLocation": "6",
+    "gripperXYZ": [
+      1,
+      0,
+      0.14
+    ],
+    "yaw": 0,
+    "pitch": 65
+  },
+  {
+    "imageNo": 95,
+    "robotLocation": "7",
+    "gripperXYZ": [
+      1,
+      0,
+      0.14
+    ],
+    "yaw": 0,
+    "pitch": 65
+  }
+]
